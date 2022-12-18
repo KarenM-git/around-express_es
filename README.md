@@ -1,18 +1,13 @@
 # Around the U.S. Back End  
   
-## Directories  
+## Funcionalidad 
+   Desarrollo de API
   
-`/data` — JSON files to temporarily emulate database integration.  
+## Tecnologias Utilizadas 
   
-`/routes` — routing files.  
+- Express 
   
-All other directories are optional and may be created by the developer if necessary.   
-  
-## Running the Project  
-  
-`npm run start` — to launch the server.  
-  
-`npm run dev` — to launch the server with the hot reload feature.  
+- Node.js  
 
 
 
